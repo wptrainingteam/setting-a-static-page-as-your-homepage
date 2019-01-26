@@ -59,7 +59,11 @@ By default, WordPress installs all new sites to display blog post excerpts on th
 1.  Yes
 2.  No
 
-**Answer:** 2\. No **Where do you change from a blog post preview to a static front page?**
+**Answer:** 2\. No 
+
+<hr>
+
+**Where do you change from a blog post preview to a static front page?**
 
 1.  Settings -> Reading
 2.  Settings -> Writing
