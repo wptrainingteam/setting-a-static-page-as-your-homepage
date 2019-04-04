@@ -48,11 +48,11 @@ Secondly, you will need to determine which page will be designated as your "Blog
 
 By default, WordPress installs all new sites to display blog post excerpts on the front or home page.  When you visit Settings -> reading, it will look like this.
 
-![Blog on Front Page reading settings](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.10.33-PM.png)
+![Blog on Front Page reading settings](images/reading-settings.png)
 
 And the front page content will display like this:
 
-![Home Page as Blog Excerpts](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.20.27-PM-1024x802.png)
+![Home Page as Blog Excerpts](images/static-front-page.png)
 
 To configure your site to display a specific page on the front or home page, select "A static page" in **Settings -> Reading**.  Select which page should be the front page, and which page should be the blog.
 
