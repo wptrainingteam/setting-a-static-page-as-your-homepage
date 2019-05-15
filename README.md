@@ -48,7 +48,7 @@ Secondly, you will need to determine which page will be designated as your "Blog
 
 By default, WordPress installs all new sites to display blog post excerpts on the front or home page.  When you visit Settings -> reading, it will look like this.
 
-![Blog on Front Page reading settings](images/reading-settings.png)
+![Blog on Front Page reading settings](/images/reading-settings.png)
 
 And the front page content will display like this:
 
@@ -88,6 +88,15 @@ Go to the "Blog" page you've created to preview your blog page.
 3.  Settings -> General
 
 **Answer:** 1\. Settings -> Reading
+
+**Which is the default front page in wordpress?**
+
+1.  Faq Page
+2.  Contact Page 
+3.  Latest post (Blog)
+4.  None of above
+
+**Answer:** 3\. Latest post (Blog)
 
 ## Additional Resources
 
