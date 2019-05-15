@@ -89,6 +89,15 @@ Go to the "Blog" page you've created to preview your blog page.
 
 **Answer:** 1\. Settings -> Reading
 
+**Which is the default front page in wordpress?**
+
+1.  Faq Page
+2.  Contact Page 
+3.  Latest post (Blog)
+4.  None of above
+
+**Answer:** 3\. Latest post (Blog)
+
 ## Additional Resources
 
 [Creating a Static Front Page](https://codex.wordpress.org/Creating_a_Static_Front_Page) @ Codex
