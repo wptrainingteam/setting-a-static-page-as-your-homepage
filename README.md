@@ -52,7 +52,7 @@ By default, WordPress installs all new sites to display blog post excerpts on th
 
 And the front page content will display like this:
 
-![Home Page as Blog Excerpts](images/static-front-page.png)
+![Home Page as Blog Excerpts](/setting-a-static-page-as-your-homepage/blob/dev/images/static-front-page.png)
 
 To configure your site to display a specific page on the front or home page, select "A static page" in **Settings -> Reading**.  Select which page should be the front page, and which page should be the blog.
 
