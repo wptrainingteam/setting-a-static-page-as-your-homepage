@@ -46,7 +46,25 @@ Secondly, you will need to determine which page will be designated as your "Blog
 
 ### Assign the front page and blog in Settings -> Reading
 
-By default, WordPress installs all new sites to display blog post excerpts on the front or home page.  When you visit Settings -> reading, it will look like this. ![Blog on Front Page reading settings](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.10.33-PM.png) And the front page content will display like this: ![Home Page as Blog Excerpts](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.20.27-PM-1024x802.png) To configure your site to display a specific page on the front or home page, select "A static page" in **Settings -> Reading**.  Select which page should be the front page, and which page should be the blog. [tip]You do not need any content within the page named "Blog".  This can be an entirely blank page entitled "Blog". [/tip] ![Static front page](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.15.11-PM.png) Save changes and view your home page. ![Screen Shot 2016-03-06 at 2.38.06 PM](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.38.06-PM-1024x769.png) Go to the "Blog" page you've created to preview your blog page.
+By default, WordPress installs all new sites to display blog post excerpts on the front or home page.  When you visit Settings -> reading, it will look like this.
+
+![Blog on Front Page reading settings](/images/reading-settings.png)
+
+And the front page content will display like this:
+
+![Home Page as Blog Excerpts](images/static-front-page.png)
+
+To configure your site to display a specific page on the front or home page, select "A static page" in **Settings -> Reading**.  Select which page should be the front page, and which page should be the blog.
+
+_You do not need any content within the page named "Blog". This can be an entirely blank page entitled "Blog"._
+
+![Static front page](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.15.11-PM.png)
+
+Save changes and view your home page.
+
+![Screen Shot 2016-03-06 at 2.38.06 PM](https://make.wordpress.org/training/files/2015/12/Screen-Shot-2016-03-06-at-2.38.06-PM-1024x769.png)
+
+Go to the "Blog" page you've created to preview your blog page.
 
 ## Exercises
 
@@ -59,13 +77,26 @@ By default, WordPress installs all new sites to display blog post excerpts on th
 1.  Yes
 2.  No
 
-**Answer:** 2\. No **Where do you change from a blog post preview to a static front page?**
+**Answer:** 2\. No 
+
+<hr>
+
+**Where do you change from a blog post preview to a static front page?**
 
 1.  Settings -> Reading
 2.  Settings -> Writing
 3.  Settings -> General
 
 **Answer:** 1\. Settings -> Reading
+
+**Which is the default front page in wordpress?**
+
+1.  Faq Page
+2.  Contact Page 
+3.  Latest post (Blog)
+4.  None of above
+
+**Answer:** 3\. Latest post (Blog)
 
 ## Additional Resources
 
