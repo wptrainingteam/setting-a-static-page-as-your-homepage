@@ -2,7 +2,7 @@
 
 ## Description
 
-Most WordPress themes are set up to show your most recent blog post as your front page, but have you wondered how to create a static page as your homepage on your WordPress website? If so, this lesson is for you. In this lesson you will learn how to set up a static page as the homepage on your website.
+Most WordPress themes are set up to show your most recent blog post as your front page, but have you wondered how to create a static page as your homepage on your WordPress website? If so, this lesson is for you. In this lesson you will learn how to set up a static page as the homepage of your website.
 
 ## Objectives
 
@@ -14,8 +14,8 @@ After completing this lesson you will be able to:
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
-*   the [Settings](https://make.wordpress.org/training/handbook/user-lessons/settings/) lesson
-*   the [Pages vs Posts](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/) lesson
+*   The [Settings](https://make.wordpress.org/training/handbook/user-lessons/settings/) lesson
+*   The [Pages vs Posts](https://make.wordpress.org/training/handbook/user-lessons/pages-vs-posts/) lesson
 
 ## Assets
 
@@ -89,7 +89,7 @@ Go to the "Blog" page you've created to preview your blog page.
 
 **Answer:** 1\. Settings -> Reading
 
-**Which is the default front page in wordpress?**
+**Which is the default front page in WordPress?**
 
 1.  Faq Page
 2.  Contact Page 
